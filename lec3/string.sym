@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP              3001
+//	POLL              3003
+//	STOP              3008
+//	MyStr             3009
+//	DSR_ADDR          3010
+//	DDR_ADDR          3011
+

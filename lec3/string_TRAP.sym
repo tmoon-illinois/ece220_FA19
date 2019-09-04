@@ -1,0 +1,9 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	STOP              3002
+//	MyStr             3003
+//	DSR_ADDR          300A
+//	DDR_ADDR          300B
+
