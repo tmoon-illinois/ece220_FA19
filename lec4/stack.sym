@@ -1,0 +1,21 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	PUSH              3019
+//	OVERFLOW          3027
+//	DONE_PUSH         3028
+//	POP               302B
+//	UNDERFLOW         3038
+//	DONE_POP          3039
+//	STACK_END         303C
+//	STACK_START       303D
+//	STACK_TOS         303E
+//	Value1            303F
+//	Value2            3040
+//	Value3            3041
+//	Value4            3042
+//	Value5            3043
+//	SaveR3            3044
+//	SaveR6            3045
+
