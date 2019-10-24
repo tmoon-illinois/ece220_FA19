@@ -1,0 +1,8 @@
+SSID Signal_strength Channel Bandwidth(MHz) Carrier_freq(GHz) Max_rate(Mbps)
+IllinoisNet_Guest 50% 40 80 5 1733.3 
+COECSLNIGHT-5G 44% 153 80 5 1300 
+IllinoisNet 67% 153 80 5 1733.3 
+COECSLNIGHT 50% 4 20 2.4 216.7 
+PI_WR700N 13% 6 40 2.4 150 
+COECSL3005 8% 6 20 2.4 144.4 
+eduroam 48% 40 80 5 1733.3 
